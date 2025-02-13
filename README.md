@@ -19,3 +19,7 @@
 <p>
     this game ask you kill enemy as quick as you can, and caclculator provide a information of "damage in one minute" for reference.
 </p>
+<p align="center"><img src="features_5.png" width="50%"></p>
+<p>
+    Export ranking file
+</p>
