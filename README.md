@@ -23,3 +23,4 @@
 <p>
     Export ranking file
 </p>
+<p align="center"><img src="features_6.png" width="50%"></p>
