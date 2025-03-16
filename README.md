@@ -24,3 +24,10 @@
     Export ranking file
 </p>
 <p align="center"><img src="features_6.png" width="50%"></p>
+<p>
+    If full auto weapon with too high recoil, bullets will miss target.
+</p>
+<p align="center"><img src="features_7.png" width="50%"></p>
+<p>
+    Auto make infinity ammo or no recoil, zero spread.
+</p>
